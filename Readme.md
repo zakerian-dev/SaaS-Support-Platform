@@ -204,11 +204,11 @@ Each user belongs to a company, and access to company-related data is isolated b
 
 ### User Roles
 
-| Role | Description |
-|------|-------------|
-| Owner | Full access to company resources and administrative operations |
-| Admin | Administrative access to company resources |
-| Member | Standard access to support operations |
+| Role   | Description                                                    |
+| ------ | -------------------------------------------------------------- |
+| Owner  | Full access to company resources and administrative operations |
+| Admin  | Administrative access to company resources                     |
+| Member | Standard access to support operations                          |
 
 Role-based authorization is enforced on the backend for protected operations.
 
